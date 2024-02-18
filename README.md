@@ -1,6 +1,7 @@
-Daftar belanja Frozen Food
-=
-18.2.2024
+# Daftar belanja Frozen Food
+
+**18.2.2024**<br>
+Rp 352.000
 * Kingfood Rolade Ayam isi 9pcs Rp 12.000 (1)
 * Cireng Ayam Mercon isi 9pcs Rp 14.000 (2)
 * Kimbo Sosis Bratwurst isi 25pcs Rp 34.000 (2)
