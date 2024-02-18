@@ -1,5 +1,9 @@
 # Daftar belanja Frozen Food
 
+**11.2.2024**
+RP 710.000
+
+
 **18.2.2024**<br>
 Rp 352.000
 * Kingfood Rolade Ayam isi 9pcs Rp 12.000 (1)
