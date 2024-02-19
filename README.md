@@ -8,7 +8,7 @@ RP 710.000
 Rp 352.000
 * Kingfood Rolade Ayam isi 9pcs Rp 12.500 (1)
 * Cireng Ayam Mercon isi 9pcs Rp 14.000 (2)
-* Kimbo Sosis Bratwurst isi 25pcs Rp 34.000 (2)
+* Kimbo Sosis Bratwurst isi 25pcs Rp 34.500 (2)
 * Cedea Fish Roll 250gr Rp 16.000 (1)
 * Bakso Warisan isi 25pcs Rp 15.500 (5)
 * Sonice Naget Ayam 500gr Rp 26.000 (3)
