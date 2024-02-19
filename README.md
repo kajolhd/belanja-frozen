@@ -1,7 +1,7 @@
 # Daftar belanja Frozen Food
 
 **11.2.2024**
-RP 710.000
+* RP 710.000
 * tf 73
 
 **18.2.2024**<br>
